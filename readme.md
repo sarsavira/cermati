@@ -1,6 +1,6 @@
 # Q4 AUTOMATE TEST USING CYPRESS
 ---
-![run-test](./success-test.mp4)
+![run-test](./assets/success-test.gif)
 
 ## *prequisites*
 install cypress using npm
