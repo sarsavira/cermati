@@ -1,5 +1,6 @@
-# Q6 AUTOMATE TEST USING CYPRESS
+# Q4 AUTOMATE TEST USING CYPRESS
 ---
+![run-test](./success-test.mp4)
 
 ## *prequisites*
 install cypress using npm
@@ -11,9 +12,10 @@ run the cypress
     nppx cypress run
 
 It will looked like below
+
 ![cypress](./assets/cypress.PNG)
 
-Click the test you want to run, in this case (./cypress/integration/registration.js)
+Click the test you want to run, example: [Registration test case](./cypress/integration/registration.js)
 ![web-runner](./assets/web-runner.PNG)
 
 Choose electron as the environment browser
