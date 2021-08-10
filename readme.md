@@ -1,0 +1,20 @@
+# Q6 AUTOMATE TEST USING CYPRESS
+---
+
+## *prequisites*
+install cypress using npm
+
+    npm install cypress --save-dev
+
+run the cypress
+
+    nppx cypress run
+
+It will looked like below
+![cypress](./assets/cypress.PNG)
+
+Click the test you want to run, in this case (./cypress/integration/registration.js)
+![web-runner](./assets/web-runner.PNG)
+
+Choose electron as the environment browser
+![success-failed-test](./assets/success-failed-test.PNG)
