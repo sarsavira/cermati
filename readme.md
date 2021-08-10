@@ -11,6 +11,7 @@ run the cypress
     nppx cypress run
 
 It will looked like below
+
 ![cypress](./assets/cypress.PNG)
 
 Click the test you want to run, example: [Registration test case](./cypress/integration/registration.js)
